@@ -1,0 +1,10 @@
+body {
+    background-color: #e6d6b9;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-size: 2 rem;
+    font-weight: bold;
+    text-align: center;
+}
